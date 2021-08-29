@@ -1,2 +1,2 @@
-# vac-service
+# Getting started with gRPC
  
